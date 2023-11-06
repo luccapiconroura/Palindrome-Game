@@ -1,9 +1,9 @@
 # Palindrome-Game
 
-##Description
+## Description
 Java project that prompts the user to enter palindromes in a gamified way. The program utilizes Java’s Scanner class and scores them on their ability to identify palindromes, whether that be a word, number, or phrase. The code employs a combination of linked-list-based stack and queue data structures; along with a variety of conditional statements.
 
-##Features
+## Features
 - User Interaction: Using Java's Scanner class allows users to enter their potential palindromes and choose when they'd like to play or stop playing.
 
 - Scoring Mechanism: Players are granted a score on how many correctly identified palindromes they enter within 5 attempts, with scores accumulating over multiple attempts. Additionally, the program in the background keeps track of the user's highest score throughout the session.
